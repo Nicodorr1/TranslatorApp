@@ -1,0 +1,19 @@
+#Sun Nov 04 14:28:41 CET 2018
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/11
+base.4=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/14
+base.3=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/12
+base.2=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/13
+base.1=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/15
+base.0=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/16
+file.5=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex
+file.4=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex
+file.3=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex
+file.2=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex
+file.1=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex
+file.0=/Users/nicodorr/Documents/FAI-IT/2nd-Year/1st-Semeter/Mobilni technologie/App/TranslatorApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex

@@ -1,0 +1,65 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Translator</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <h4>Translate from CZ to EN</h4>
+
+  <ion-input #input type="text" placeholder="Text for translation..."></ion-input>
+
+  <button (click)="btnTranslateClicked(input.value)" ion-button full>Translate CZ to EN</button>
+
+
+  <ion-card>
+    <ion-card-header>
+      Translation result
+    </ion-card-header>
+    <ion-card-content>
+      <!-- here goes trans. result -->
+      {{ result }}
+
+    </ion-card-content>
+  </ion-card>
+
+  <ion-list>
+
+    <ion-item *ngFor="let match of matches">
+      {{ match.translation }} - {{ match.quality }}%
+    </ion-item>
+
+
+  </ion-list>
+
+  <hr>
+
+  <h4>Translate from EN to CZ</h4>
+
+  <ion-input #input2 type="text" placeholder="Text for translation..."></ion-input>
+
+  <button (click)="btnCzClicked(input2.value)" ion-button full>Translate EN to CZ</button>
+
+
+  <ion-card>
+    <ion-card-header>
+      Translation result
+    </ion-card-header>
+    <ion-card-content>
+      <!-- here goes trans. result -->
+      {{ result2 }}
+
+    </ion-card-content>
+  </ion-card>
+
+  <ion-list>
+
+    <ion-item *ngFor="let matchTe of matches">
+      {{ matchTe.translation }} - {{ matchTe.quality }}%
+    </ion-item>
+
+
+  </ion-list>
+
+</ion-content>
